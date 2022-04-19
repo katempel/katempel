@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @katempel
+- 👀 I’m interested in Web Developing, Mobile Apps and Web Design.
+- 🌱 I’m currently working on JS, CSS and HTML. 
+- 💞️ I’m looking to collaborate on companies.
+- 📫 How to reach me: katerinampel@gmail.com
+
+<!---
+katempel/katempel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
